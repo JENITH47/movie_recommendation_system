@@ -16,9 +16,11 @@ This project implements a **Content-Based Movie Recommendation System** using co
 
 ## 📦 Dataset
 
-The project uses movie metadata from the **TMDB 5000 Movie Dataset**, which includes movies, genres, cast, keywords, and descriptions.
+Here is the dataset.
 
-📥 [Download Dataset (tmdb_5000_movies.csv)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+📥 [Download Dataset (Rating)](https://github.com/JENITH47/movie_recommendation_system/blob/main/ratings.csv)
+📥 [Download Dataset (Movie)](https://github.com/JENITH47/movie_recommendation_system/blob/main/movies.csv)
+
 
 
 ---
@@ -40,13 +42,10 @@ The project uses movie metadata from the **TMDB 5000 Movie Dataset**, which incl
 
   <table>
     <tr>
-      <td><img src="screenshots/output1.png" width="400"/></td>
-      <td><img src="screenshots/output2.png" width="400"/></td>
+      <td><img src="https://github.com/JENITH47/movie_recommendation_system/blob/main/2025-07-09%20(9).png" width="400"/></td>
+      <td><img src="https://github.com/JENITH47/movie_recommendation_system/blob/main/2025-07-09%20(10).png" width="400"/></td>
     </tr>
-    <tr>
-      <td><img src="screenshots/output3.png" width="400"/></td>
-      <td><img src="screenshots/output4.png" width="400"/></td>
-    </tr>
+   
   </table>
 
 </details>
@@ -55,7 +54,7 @@ The project uses movie metadata from the **TMDB 5000 Movie Dataset**, which incl
 
 ## 🎥 Demo
 
-[▶️ Click to Watch Demo](demo.mp4)  
+[▶️ Click to Watch Demo](https://github.com/JENITH47/movie_recommendation_system/blob/main/bandicam%202025-07-09%2019-22-37-825.mp4)  
 *A short screen recording showing how the recommendations appear in real time.*
 
 ---
