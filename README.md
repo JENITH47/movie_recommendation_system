@@ -70,14 +70,6 @@ Here is the dataset.
 
 ---
 
-## 📁 Files in This Repository
+                           |
 
-| File Name                | Description                              |
-|--------------------------|------------------------------------------|
-| `movie_recomadation.ipynb` | Main notebook with complete source code  |
-| `screenshots/`           | Folder with output screenshots           |
-| `demo.mp4`               | Demo screen recording                    |
-| `README.md`              | This file                                |
-
----
 
